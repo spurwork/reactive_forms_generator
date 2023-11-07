@@ -13,5 +13,6 @@ Builder reactiveFormsGenerator(BuilderOptions options) {
       // ignore_for_file: type=lint
       // ignore_for_file: 
     ''',
+    options: options,
   );
 }
